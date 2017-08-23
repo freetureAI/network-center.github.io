@@ -3,8 +3,7 @@
 ### Site: http://net.hicc.cn
 ### BBS: http://net.hicc.cn/bbs/forum.php
 ### Location: Industrial and Commercial College, Hebei University, Baoding, China
-# About Members
-### Members:
+# Members
 #### Yifans_Z
 > ##### Email: 168@yifans.com
 > ##### Location: Beijing, China
