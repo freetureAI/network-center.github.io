@@ -5,6 +5,6 @@
 > ##### Location: Beijing, China
 > ##### Blog: https://zyf.im
 > #### Feilong
-> ##### Email: 569914877.com
+> ##### Email: 569914877@.com
 > ##### Location: Beijing, China
 > ##### Blog: http://www.feilong.tech
